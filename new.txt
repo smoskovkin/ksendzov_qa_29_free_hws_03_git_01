@@ -1,5 +1,5 @@
 firstname: "Ivan"
 lastname: "Ivanov"
 age: 23
-pets_count: 2
+pets_count: 3
 desired_salary: 1000
