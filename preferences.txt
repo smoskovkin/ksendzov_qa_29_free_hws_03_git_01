@@ -3,4 +3,3 @@ favorite_show: "Silicon Valley"
 favorite_food: "stew"
 favourite_season: "late spring"
 country_to_visit: "Egypt"
-
