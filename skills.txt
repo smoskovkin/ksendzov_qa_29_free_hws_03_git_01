@@ -1,4 +1,3 @@
-
 skills_to_be_studied:
     Linux terminal
     JavaScript
